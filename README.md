@@ -1,3 +1,3 @@
 Flonomix
 ========
-Web site code. Tracks development. Alpha stage.
+2013-09-09: Repository created. Tracking development of company website.
